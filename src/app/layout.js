@@ -9,6 +9,7 @@ export const metadata = {
 };
 
 console.log(inter);
+console.log(metadata);
 
 export default function RootLayout({ children }) {
 	return (
